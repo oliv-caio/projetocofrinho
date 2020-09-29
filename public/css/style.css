@@ -1,0 +1,38 @@
+html,
+body {
+    height: 100%;
+    min-height: 100%;
+}
+
+.txt-br {
+    color: white;
+}
+
+body {
+    background-image: url(img/coins.png);
+}
+
+.form-control-plaintext-b {
+    display: block;
+    width: 100%;
+    padding: .375rem 0;
+    margin-bottom: 0;
+    font-size: 32px;
+    line-height: 1.5;
+    color: white;
+    background-color: transparent;
+    border: solid transparent;
+    border-width: 1px 0;
+}
+
+.font-32 {
+    font-size: 32px;
+}
+
+.font-20 {
+    font-size: 20px;
+}
+
+.yessir {
+    margin-left: auto;
+}
